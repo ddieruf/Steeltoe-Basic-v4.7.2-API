@@ -1,0 +1,7 @@
+﻿---
+applications:
+- name: actuators-web
+  memory: 512M
+  stack: windows
+  buildpacks:
+   - hwc_buildpack
