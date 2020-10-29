@@ -1,6 +1,6 @@
 ﻿---
 applications:
-- name: actuators-web
+- name: Steeltoe-Basic-v4.7.2-API
   memory: 512M
   stack: windows
   buildpacks:
